@@ -1,2 +1,3 @@
-# weather-app
-A simple ASP.NET Core MVC weather forecast application
+# Weather Forecast App 🌤️
+
+A simple ASP.NET Core MVC application...
